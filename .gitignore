@@ -3,13 +3,13 @@ frontend/magazine-newsletter-app/node_modules/
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output
-frontend/magazine-newsletter-app//dist
-frontend/magazine-newsletter-app//tmp
-frontend/magazine-newsletter-app//out-tsc
-frontend/magazine-newsletter-app//bazel-out
+frontend/magazine-newsletter-app/dist
+frontend/magazine-newsletter-app/tmp
+frontend/magazine-newsletter-app/out-tsc
+frontend/magazine-newsletter-app/bazel-out
 
 # Node
-frontend/magazine-newsletter-app//node_modules
+frontend/magazine-newsletter-app/node_modules
 frontend/magazine-newsletter-app/npm-debug.log
 frontend/magazine-newsletter-app/yarn-error.log
 
