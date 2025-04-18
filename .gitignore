@@ -1,0 +1,44 @@
+frontend/magazine-newsletter-app/node_modules/
+
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+frontend/magazine-newsletter-app//dist
+frontend/magazine-newsletter-app//tmp
+frontend/magazine-newsletter-app//out-tsc
+frontend/magazine-newsletter-app//bazel-out
+
+# Node
+frontend/magazine-newsletter-app//node_modules
+frontend/magazine-newsletter-app/npm-debug.log
+frontend/magazine-newsletter-app/yarn-error.log
+
+# IDEs and editors
+frontend/magazine-newsletter-app/.idea/
+frontend/magazine-newsletter-app/.project
+frontend/magazine-newsletter-app/.classpath
+frontend/magazine-newsletter-app/.c9/
+frontend/magazine-newsletter-app/*.launch
+frontend/magazine-newsletter-app/.settings/
+frontend/magazine-newsletter-app/*.sublime-workspace
+
+# Visual Studio Code
+frontend/magazine-newsletter-app/.vscode/*
+frontend/magazine-newsletter-app/!.vscode/settings.json
+frontend/magazine-newsletter-app/!.vscode/tasks.json
+frontend/magazine-newsletter-app/!.vscode/launch.json
+frontend/magazine-newsletter-app/!.vscode/extensions.json
+frontend/magazine-newsletter-app/.history/*
+
+# Miscellaneous
+frontend/magazine-newsletter-app/.angular/cache
+frontend/magazine-newsletter-app/.sass-cache/
+frontend/magazine-newsletter-app/connect.lock
+frontend/magazine-newsletter-app/coverage
+frontend/magazine-newsletter-app/libpeerconnection.log
+frontend/magazine-newsletter-app/testem.log
+frontend/magazine-newsletter-app/typings
+
+# System files
+.DS_Store
+Thumbs.db
